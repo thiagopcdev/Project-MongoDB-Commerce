@@ -1,4 +1,4 @@
-## Boas vindas ao repositório do projeto de MongoDB Commerce!
+## Projeto de MongoDB Commerce!
 
 ### Habilidades
 
