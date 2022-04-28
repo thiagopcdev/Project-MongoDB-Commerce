@@ -1,4 +1,4 @@
-## Projeto de MongoDB Commerce!
+## Projeto MongoDB Commerce!
 
 ### Habilidades
 
